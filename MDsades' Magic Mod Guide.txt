@@ -1,0 +1,120 @@
+﻿MDsades’ Magic Mod. 
+
+
+Introduction--------
+
+
+Hello, reader, and welcome to the guide for my mod, MDsades’ Magic Mod. I hope you enjoy this mod more than I enjoyed making it. Before we start, it's important to know some things about the mod first:
+
+
+1. This mod was inspired by another magic mod I found on Github.
+2. This mod was made with an open source coding software on my chromebook, so don’t expect perfect quality. 
+3. Im working on the version 2 for this mod, which will be much higher quality, while still maintaining the look and feel of version 1.
+
+
+Now that you’re done reading, Let's get to the guide.
+
+
+First Steps-----------
+
+
+To start the path to magic and madness, you need to craft some things first, with the first being Enchanted Dust. To make enchanted dust, all you need to do is put some lapis lazuli in a stone-cutter to make 2 Enchanted Dust. Then, you’ll need to use 1 enchanted dust, 1 glowstone dust, and 1 redstone dust to make 2 Sorcerer’s Dust. Next, you’ll need to make the Sorcerer’s Gem. To make the Sorcerer’s Gem, you’ll need 1 Emerald, 2 Sorcerer’s Dust, and 2 Blaze Powder. Once you’ve crafted the Sorcerer’s Gem, you can craft your first wand. Using a stick, a blaze rod, The Sorcerer’s Gem and two gold nuggets, you can craft a Basic Wand. 
+
+
+The Basic Wand has two attacks:
+1. Range Attack: Left-click with the wand to send a fireball that makes a small explosion and deals 7 damage.
+2. Area Attack. Right-click with the wand to make a 5-block-large ring of dark-blue fire that sets enemies on fire when they walk through. The fire does half a heart of damage per 5 ticks for 80 ticks. 
+
+
+        Before you go hog wild on the wand, there are some things you’ll need to know. First, each attack has a cooldown, so you can't spam the attacks, and Second, each attack uses up Mana. Mana is the “magic juice” that runs every magic utility in this mod. To gain and collect Mana, you  kill monsters. But you can craft a bottle o’ mana by combining a bottle o’ enchanting with 2 Enchanted Dust (each bottle gives 35 mana). Each range attack uses up 10 mana per use, and each area attack uses up 15 mana per use. 
+
+
+Leveling Up Your Wand----------
+
+
+        Did you know that you can level up your wand (you probably didn't if you’re reading this guide). The leveling system is described in the following:
+
+
+1. Each time you collect mana, your “mana history” saves how much mana you’ve collected over the course of your wand adventures
+2. When your “mana history” reaches a certain number, your wand levels up
+3. When your wand levels up, it resets the “mana history” on the wand. (But don’t worry, the higher the level your wand is, the higher that “certain number” becomes, meaning that leveling up becomes harder over time :) 
+4. When your wand levels up, your attacks do the same. As attacks level up, they deal more damage, but in turn use more mana. 
+
+
+All right, now that you know how it works, lets get into some of the harder items. 
+
+
+Tomes----------
+
+
+        As you go along leveling up your wand, you might be saying “Well, why cant we have more attacks?”, or “Why is this wand so mono?”, well Tomes are your ticket. Tomes are ancient magical tablets that you can find around your game. You can attach Tomes to your wand by pressing shift+e with the wand in your hand to open the GUI. The basic wand can hold 2 Tomes. There are 5 different tomes that you can find around your world: 
+
+
+1. The Frozen Tome: The Frozen tome changes the wand's attacks from fire-based to ice-based, which gives attacks the added bonus to freeze mobs in place for 5-10 seconds.
+2. The Strength Tome: The Strength tome increases the strength of your attacks by adding an additional 3 damage to every attack per level. 
+3. The Efficiency Tome: The Efficiency tome decreases the amount of mana your wand uses by 40%. 
+4. The Ender Tome: The ender tome adds a new attack (activated by middle-clicking with the wand in your hand) which allows the player to teleport where their mouse is looking from at most 30 blocks away. 
+5. The Speed Tome: The speed tome decreases the wand’s cooldowns by 35%. 
+
+
+        Now that we have the tomes out of the way, we can now go into the exciting part: The Advanced Section
+        
+The Advanced Section--------
+
+
+        In this mod, there are some other magical blocks and tools that the player can use for their advantage. For example; using a bundle (color of choice), 2 Sorcerer’s dust and a Sorcerer’s Gem in a crafting interface, you can make a Magic Sac, which acts as a sort of portable ender chest that you can open in your inventory. Using 2 Sorcerer’s dust, and an ender pearl, you can craft something called “The Eye of Security” which when left-clicked will make the player invisible for 5 secs, but will be used when activated. 
+
+
+        There is one utility that is needed for most of the advanced part of the mod: The Infuser. The Infuser is crafted using a brewing stand, 2 Sorcerer’s dust, 4 Gold Ingots, and 2 Obsidian. Using the infuser, you can infuse the essence of certain items into other items (at the cost of mana!). 
+
+
+        The next utility item that you can make is a metal called “Enchanted Alloy” to make enchanted alloy, you infuse 2 enchanted dust and 1 bottle o’ mana into an iron ingot. You can use enchanted alloy to make 2 items. 
+
+
+The first item; A Mana Battery. A mana battery is crafted using 4 enchanted alloy, 4 obsidian, and a gold ingot. This is a block that stores mana energy. When you left click the block, all the mana in your wand gets taken and stored in the battery, and left-clicking it again when its full will give you that mana back. When the block is broken with mana stored inside of it, all the mana inside will be destroyed. 
+
+
+The Second Item: The Upgraded Wand. By putting your basic wand and 1 Enchanted Alloy, 1 fire charge, and 1 lapis lazuli in the infuser, you can upgrade your wand from the basic wand to the advanced wand. The advanced wand has 2 new powers: 
+
+
+1. Melee Attack: when you hit a mob with the wand, the mob (unless you have a Frozen Tome attached to the wand) will light the mob on fire for 30 seconds. This uses 5 mana per hit. 
+2. Self-Healing: when you shift+right-click with the wand, you can heal yourself for 5 hearts of health. Uses 15 mana. 
+        
+        As well as the extra powers, this wand can also hold 3 tomes instead of 2. The attacks on the wand are now stronger and use more mana, as well. 
+
+
+Ways to collect Mana (ADVANCED OHHHH)
+
+
+        There are other ways to collect mana. First are the somewhat simple options. You can build a regular mob farm, because of certain mobs dropping certain amounts of mana. Here’s the list of mobs and their mana drops. 
+        Zombie: 5 mana 
+        Creeper: 5 mana 
+Skeleton: 5 mana 
+Witch: 15 mana
+Evoker: 15 mana
+Spider: 5 mana 
+Wither Skeleton: 10 mana 
+Piglin: 5 mana 
+Wither: 75 mana 
+Endermen: 10 mana 
+Endermite: 10 mana 
+Ender Dragon: 100 mana 
+This list could be useful, because you can make Wither Skeleton farm, but there are also utilities, like the Mana Battery, that can be used to collect mana. This is where one particular alloy comes in: Flaming Alloy. To make flaming alloy, you infuse 1 blaze powder, 1 nether wart, and 1 coal into a gold ingot. Flaming Alloy has a strange property to be like a magnet to Mana (you can test this when you hold a flaming alloy ingot and go towards a pile of mana.). Because of this, you can make a specialized hopper/magnet called a Mana Collector. To craft a mana collector, you need 1 hopper, 4 flaming alloys, and 4 iron ingots. 
+
+
+A mana collector’s uses are in a wide range. It works by sucking the mana around the area into the collector, which stores the mana (unless you put it to hopper mode by shift-left-clicking the block, which then it will act like a mana hopper.) This can be used in mob farms to collect the mana dropped by mobs and store it in a mana battery or batteries. 
+
+
+Wand Upgrades--------
+
+
+        Wands can level up, and wands can upgrade (yes, there’s a difference). To upgrade your wand from advanced (see passage 5 of the advanced section) to Sorcerer, you need to craft something first: The Sorcerer’s Alloy. To craft the sorcerer’s alloy, you'll need to infuse 2 enchanted alloy and 1 flaming alloy into a netherite ingot to make the sorcerer’s alloy. Next, you'll need to craft the heart of the flame, which can be crafted using an eye of security and 4 netherite scrap. Then, you infuse 1 sorcerer’s alloy, 1 heart of the flame, and 1 bottle o’ dragon’s breath on an advanced wand to make the sorcerer’s wand. 
+
+
+        The sorcerer’s wand is the most powerful wand in this mod. Not only can it store 4 tomes at once, but it also has a new ability which can send the spirits of mobs around the player into the wand, which can be released all at once to damage an entity. To use this ability, hold the wand in your hand and press r to capture the souls around you, and left-click with the wand after to release those souls in a beam. The more souls that you capture the more damage the beam does. 
+
+
+Final Notes--------
+
+
+This mod was created to test out my capabilities for modding Minecraft, so if it's not the best quality, don’t worry, because I'm making a Version 2 someday. In the meantime, I hope you have more fun than I did with this mod, and if you want me to change some things, let me know on my discord server.
