@@ -7,4 +7,4 @@ or you can open up the .zip file and read the unzipped file, your choice.
 
 If you think this is a good idea, then fork this repository and share it with others.
 
-Anywhys, thats all. Good Day.
+Anyways, thats all. Good Day.
